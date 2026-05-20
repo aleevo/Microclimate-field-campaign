@@ -1,9 +1,7 @@
-# Microclimate Analysis: BTU Cottbus Field Campaign
+# Microclimate Analysis: Field Campaign
 
 ## Overview
 In-situ meteorological field campaign analyzing spatiotemporal microclimate dynamics across a heterogeneous urban landscape. The study links surface properties (vegetation, built structures, impervious surfaces) to near-surface atmospheric conditions through handheld sensor measurements and thermal infrared imagery.
-
-**Field Date**: 02 July 2025 | **Location**: BTU Cottbus-Senftenberg Campus, Germany
 
 ## Research Questions
 1. How do air temperature, relative humidity, and wind patterns across two heights (30cm and 2m) correlate with underlying surface types?
@@ -74,8 +72,6 @@ In-situ meteorological field campaign analyzing spatiotemporal microclimate dyna
 - **Normalization**: z-score standardization for comparing surface and air temperature dynamics
 - **Validation**: AWS 16m data for synoptic forcing context
 
-## Academic Context
-Microclimatology fieldwork for environmental science/meteorology coursework at Brandenburgische Technische Universität Cottbus-Senftenberg.
 
 ## Implications
 The findings support urban planning and climate adaptation strategies:
@@ -85,4 +81,4 @@ The findings support urban planning and climate adaptation strategies:
 
 ## Citation
 If referencing this work:
-&gt; Field campaign analyzing surface-atmosphere coupling and microclimate heterogeneity via in-situ sensors and thermal imagery, BTU Cottbus-Senftenberg, July 2025.
+&gt; Field campaign analyzing surface-atmosphere coupling and microclimate heterogeneity via in-situ sensors and thermal imagery.
