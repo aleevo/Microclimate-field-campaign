@@ -18,6 +18,8 @@ In-situ meteorological field campaign analyzing spatiotemporal microclimate dyna
 | Wind Speed | 30cm, 2m | 15 min | 09:00–16:30 |
 | Wind Direction | 30cm, 2m | 15 min | 09:00–16:30 |
 
+Datasets:https://drive.google.com/drive/folders/1UT_GSD_gophWzDrmoVlem3tkYxbJ8jYh
+
 ### Remote Sensing
 - **Thermal infrared camera**: Spatial radiative surface temperature snapshots at 09:00, 12:00, 16:00
 - **AWS reference**: German Weather Station data at 16m height for synoptic context
@@ -60,6 +62,7 @@ In-situ meteorological field campaign analyzing spatiotemporal microclimate dyna
 | `Quantification of thermal and air temperature` | Correlation analysis: surface vs. air temperature |
 | `Two thermal ROI` | Grassy patch vs. shaded area comparison |
 | `AWS Global Radiation vs Time` | Solar forcing context |
+
 
 ## Tech Stack
 - **Python**: Pandas, NumPy, Matplotlib
