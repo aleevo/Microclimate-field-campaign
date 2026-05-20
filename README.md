@@ -79,6 +79,3 @@ The findings support urban planning and climate adaptation strategies:
 - **Surface type** is the first-order control on local microclimate — not just background weather
 - Thermal imagery can predict air temperature well over exposed surfaces, but fails over shaded canopies
 
-## Citation
-If referencing this work:
-&gt; Field campaign analyzing surface-atmosphere coupling and microclimate heterogeneity via in-situ sensors and thermal imagery.
